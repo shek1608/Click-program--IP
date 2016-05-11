@@ -1,0 +1,10 @@
+# of ARP packets:  56
+# of ARP request packets:  54
+# of ARP reply packets:  2
+# of IP packets:  1995
+# of ICMP packets:  8
+# of TCP packets:  1895
+# of TCP-HTTP packets:  472
+# of TCP-SSH packets:  75
+# of UDP packets:  84
+# of UDP-DNS packets:  26

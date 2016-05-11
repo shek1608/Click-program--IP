@@ -1,0 +1,399 @@
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../conf/test.click 
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../conf/test.click 
+CheckIPHeader@4: IP header check failed: bad IP version
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../conf/test.click 
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../conf/test2.click 
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../conf/test3.click 
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q2:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+q1:   69 | 52616e64 6f6d2062 756c6c73 68697420 696e2061 20706163
+^Cshek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../conf/test2.click 
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+ok:   40 | 45000028 00000000 401177c3 01000001 02000002 13691369
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ cd ..
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1$ cd ..
+shek1608@ubuntu:~/Everything/IP/Click$ tar -zxvf 
+click-2.0.1/            click-tutorial1.tar.gz  
+click-2.0.1.tar.gz      tcpdump-4.6.2.tar.gz    
+shek1608@ubuntu:~/Everything/IP/Click$ tar -zxvf click-tutorial1.tar.gz 
+click-tutorial1/
+click-tutorial1/f1a.dump
+click-tutorial1/Makefile
+click-tutorial1/f3a.dump
+click-tutorial1/f8a.dump
+click-tutorial1/f2a.dump
+click-tutorial1/good/
+click-tutorial1/good/f9
+click-tutorial1/good/f4.drops
+click-tutorial1/good/f3f.dump
+click-tutorial1/good/f3e.dump
+click-tutorial1/good/f2c.dump
+click-tutorial1/good/f3c.dump
+click-tutorial1/good/f2e.dump
+click-tutorial1/good/f2d.dump
+click-tutorial1/good/f3d.dump
+click-tutorial1/good/f2b.dump
+click-tutorial1/good/f3b.dump
+click-tutorial1/VERSION
+click-tutorial1/compare-traces
+click-tutorial1/f7a.dump
+click-tutorial1/f4a.dump
+shek1608@ubuntu:~/Everything/IP/Click$ cd
+shek1608@ubuntu:~$ ls
+Desktop    Everything        Pictures                                 Templates
+Documents  examples.desktop  Public                                   Videos
+Downloads  Music             Screenshot from 2014-09-07 13:19:59.png
+shek1608@ubuntu:~$ cd Everything/IP/Click/
+shek1608@ubuntu:~/Everything/IP/Click$ cd click-tutorial1/
+shek1608@ubuntu:~/Everything/IP/Click/click-tutorial1$ ls
+compare-traces  f2a.dump  f4a.dump  f8a.dump  Makefile
+f1a.dump        f3a.dump  f7a.dump  good      VERSION
+shek1608@ubuntu:~/Everything/IP/Click/click-tutorial1$ gedit q1.click
+
+(gedit:22937): Gtk-WARNING **: GtkScrolledWindow 0x19f7880 is mapped but visible child GtkScrollbar 0x1a02b00 is not mapped
+
+(gedit:22937): Gtk-WARNING **: GtkScrolledWindow 0x19f7880 is mapped but visible child GtkScrollbar 0x1a02d00 is not mapped
+
+(gedit:22937): Gtk-WARNING **: GtkScrolledWindow 0x19f7880 is mapped but visible child GtkScrollbar 0x1a02b00 is not mapped
+
+(gedit:22937): Gtk-WARNING **: GtkScrolledWindow 0x19f7880 is mapped but visible child GtkScrollbar 0x1a02d00 is not mapped
+shek1608@ubuntu:~/Everything/IP/Click/click-tutorial1$ ./click ../../clicktut1/q1.click
+bash: ./click: No such file or directory
+shek1608@ubuntu:~/Everything/IP/Click/click-tutorial1$ cd
+shek1608@ubuntu:~$ cd Everything/IP/Click/
+shek1608@ubuntu:~/Everything/IP/Click$ ls
+click-2.0.1         clicktut1               tcpdump-4.6.2.tar.gz
+click-2.0.1.tar.gz  click-tutorial1.tar.gz
+shek1608@ubuntu:~/Everything/IP/Click$ cd click-2.0.1/
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1$ cd userlevel/
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+../../clicktut1/q1.click:1: While initializing ‘FromDump@1 :: FromDump’:
+  f1a.dump: No such file or directory
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+../../clicktut1/q1.click:1: ‘r :: Classifier’ input 0 unused
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+../../clicktut1/q1.click:2: While configuring ‘r :: Classifier’:
+  need 1 arguments, one per output port
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+../../clicktut1/q1.click:2: While configuring ‘r :: Classifier’:
+  need 1 arguments, one per output port
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+../../clicktut1/q1.click:2: While configuring ‘r :: Classifier’:
+  need 1 arguments, one per output port
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: ‘carp :: CheckARPHeader’ output 0 unused
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: ‘carp :: CheckARPHeader’ output 0 unused
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+../../clicktut1/q1.click:2: illegal reuse of ‘r :: Classifier’ push output 0
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+../../clicktut1/q1.click:2: illegal reuse of ‘r :: Classifier’ push output 0
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: ‘carp :: CheckARPHeader’ output 0 unused
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: ‘carp :: CheckARPHeader’ output 0 unused
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+../../clicktut1/q1.click:2: While configuring ‘r :: Classifier’:
+  need 1 arguments, one per output port
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/q1.click
+../../clicktut1/q1.click:6: ‘Counter@6 :: Counter’ output 0 unused
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: While configuring ‘r :: Classifier’:
+  need 1 arguments, one per output port
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+no ‘v’ read handler
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+no ‘hi’ read handler
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+read handler ‘arpcount.count’ does not take parameters
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: undeclared element ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘-’
+../../clicktut1/testq.click:6: syntax error near ‘->’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: undeclared element ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘-’
+../../clicktut1/testq.click:6: syntax error near ‘->’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: undeclared element ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: undeclared element ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘>’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: missing element type in declaration
+../../clicktut1/testq.click:6: unknown element class ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:3: syntax error near ‘->’
+../../clicktut1/testq.click:6: missing element type in declaration
+../../clicktut1/testq.click:6: unknown element class ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: missing element type in declaration
+../../clicktut1/testq.click:6: unknown element class ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: syntax error near ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘::’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: syntax error near ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘->’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: undeclared element ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: missing element type in declaration
+../../clicktut1/testq.click:6: unknown element class ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: undeclared element ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:6: undeclared element ‘arpie’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘’
+../../clicktut1/testq.click:6: syntax error near ‘.’
+../../clicktut1/testq.click:6: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+no element named ‘arpcount’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:34: expected ')'
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+read handler ‘ArpRepCount.count’ does not take parameters
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:10: While configuring ‘DriverManager@12 :: DriverManager’:
+  syntax error at ‘ArpReqCount.count)’
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+no ‘IcmpCount’ read handler
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+no ‘ArpReqCount’ read handler
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: While configuring ‘r :: Classifier’:
+  need 6 arguments, one per output port
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: While configuring ‘r :: Classifier’:
+  need 3 arguments, one per output port
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:10: undeclared element ‘int’
+../../clicktut1/testq.click:10: undeclared element ‘abc’
+../../clicktut1/testq.click:10: syntax error near ‘’
+../../clicktut1/testq.click:10: syntax error near ‘’
+../../clicktut1/testq.click:10: syntax error near ‘.’
+../../clicktut1/testq.click:10: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:10: undeclared element ‘int’
+../../clicktut1/testq.click:10: undeclared element ‘abc’
+../../clicktut1/testq.click:10: syntax error near ‘’
+../../clicktut1/testq.click:10: syntax error near ‘’
+../../clicktut1/testq.click:10: syntax error near ‘"’
+../../clicktut1/testq.click:10: undeclared element ‘Hi’
+../../clicktut1/testq.click:10: syntax error near ‘"’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: illegal reuse of ‘r :: Classifier’ push output 4
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: illegal reuse of ‘r :: Classifier’ push output 4
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: illegal reuse of ‘r :: Classifier’ push output 4
+../../clicktut1/testq.click:7: ‘TcpCount :: Counter’ output 0 unused
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:9: undeclared element ‘set’
+../../clicktut1/testq.click:9: undeclared element ‘abc’
+../../clicktut1/testq.click:9: syntax error near ‘’
+../../clicktut1/testq.click:9: syntax error near ‘’
+../../clicktut1/testq.click:9: syntax error near ‘.’
+../../clicktut1/testq.click:9: undeclared element ‘count’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:2: illegal reuse of ‘r :: Classifier’ push output 4
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+../../clicktut1/click_ex1.click:4: While initializing ‘FromDump@1 :: FromDump’:
+  click_ex1.dump: No such file or directory
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:1: While initializing ‘FromDump@1 :: FromDump’:
+  click_ex1.dump: No such file or directory
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+../../clicktut1/testq.click:1: While initializing ‘FromDump@1 :: FromDump’:
+  click_ex1.dump: No such file or directory
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/testq.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+../../clicktut1/click_ex1.click:5: While configuring ‘r :: Classifier’:
+  need 2 arguments, one per output port
+Router could not be initialized!
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+no element named ‘UdpDnsCount’
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ./click ../../clicktut1/click_ex1.click
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ ^C
+shek1608@ubuntu:~/Everything/IP/Click/click-2.0.1/userlevel$ 
